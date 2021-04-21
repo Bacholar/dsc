@@ -11,12 +11,12 @@
 
 **Translation of Bayes theorem**
 
-- P(A|B): probability of A, given B is true
-- P(B|A): probability of B, given A is true
-- P(A): probability that A is true (prior probability)
-- P(B): probability that B is true (prior probability)
-- A and B must be different events
-- P(B) ≠ 0
+- P(H) is the probability of hypothesis H being true. This is known as the prior probability.
+- P(E) is the probability of the evidence(regardless of the hypothesis).
+- P(E|H) is the probability of the evidence given that hypothesis is true.
+- P(H|E) is the probability of the hypothesis given that the evidence is there.
+- H and E must be different events
+- P(E) ≠ 0
 
 ***
 
